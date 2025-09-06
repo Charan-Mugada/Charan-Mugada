@@ -3,7 +3,7 @@
 🎓 CSE Student at Raghu Engineering College  
 💻 Learning C, Python, Java, and JavaScript  
 📚 Exploring Data Structures & Algorithms  
-🎮 Anime fan | I debug harder than I game 😎  
+😉 Learning new things | I debug harder than I game 😎  
 🛠️ Currently building logic, projects, and a strong GitHub!
 
 ---
