@@ -1,38 +1,44 @@
 # 👋 Hey there, I'm Charan Mugada
 
-🎓 CSE Student at Raghu Engineering College  
-💻 Learning C, Python, Java, and JavaScript  
-📚 Exploring Data Structures & Algorithms  
-😉 Learning new things | I debug harder than I game 😎  
-🛠️ Currently building logic, projects, and a strong GitHub!
+🎓 3rd Year CSE Student at Raghu Engineering College
+
+📘 Currently focused on:
+
+* Data Structures & Algorithms using Python
+* Problem Solving
+* Learning Full Stack Development
 
 ---
 
-### 🚀 Tech Stack
+# 🚀 Tech Stack
 
-![C](https://img.shields.io/badge/C-blue?logo=c)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charan-Mugada&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan-Mugada&layout=compact&theme=tokyonight)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 🌐 Connect with Me
+# 📈 GitHub Streak
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/charan-mugada-b3a866281)  
-[![Blog](https://img.shields.io/badge/Blogger-orange?logo=blogger)](https://charanedublog.blogspot.com)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Charan-Mugada&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-✨ _Learning, building, and leveling up every day!_
+# 🌐 Connect with Me
 
+<a href="https://www.linkedin.com/in/charan-mugada-b3a866281">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Mugada_Charan/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
