@@ -29,10 +29,10 @@
 
 ---
 
-# 📈 GitHub Activity
+# 📊 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan-Mugada&theme=tokyo-night&hide_border=true" />
+  <img src="https://ghchart.rshah.org/Charan-Mugada" alt="Contribution Calendar" />
 </p>
 
 ---
